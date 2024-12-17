@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+**/pubspec.lock
+**/.dart_tool/
+**/.idea/
+**/.vscode/
+**/build/
+**/example/build/
+**/*.iml
+**/flutter_export_environment.sh
+**/generated_plugin_registrant.dart
+**/windows/runner/Debug/
+**/windows/runner/Release/
+
+# macOS
+**/macos/Flutter/ephemeral/
+
+# Android
+**/android/.gradle/
+**/android/local.properties
+**/android/app/generated/
+
+# Xcode
+**/ios/Pods/
+**/ios/Podfile.lock
+
+# IntelliJ/VSCode
+**/.metadata
